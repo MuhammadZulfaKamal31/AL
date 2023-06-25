@@ -2,21 +2,21 @@
     "card": [
         {
             "id": 1,
-            "img": "../../img/FabiraMovie.png",
+            "img": ".../../img/FabiraMovie.png",
             "desc": "#FabiraMovie",
             "link": "https://fabira-movie.vercel.app/",
             "git": "https://github.com/MuhammadZulfaKamal31/Fabira_Movie.git"
         },
         {
             "id": 2,
-            "img": "../../img/GamingBross.png",
+            "img": ".../../img/GamingBross.png",
             "desc": "#GamingBross",
             "link": "https://github.com/MuhammadZulfaKamal31/Gaming_Bross.git",
             "git": "https://github.com/MuhammadZulfaKamal31/Gaming_Bross.git"
         },
         {
             "id": 3,
-            "img": "../../img/VaadinWebsite.png",
+            "img": ".../../img/VaadinWebsite.png",
             "desc": "#Website Vaadin",
             "link": "https://github.com/MuhammadZulfaKamal31/Vaadin_Website.git",
             "git": "https://github.com/MuhammadZulfaKamal31/Vaadin_Website.git"
