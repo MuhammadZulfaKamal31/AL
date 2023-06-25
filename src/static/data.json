@@ -1,0 +1,65 @@
+{
+    "card": [
+        {
+            "id": 1,
+            "img": "../../img/FabiraMovie.png",
+            "desc": "#FabiraMovie",
+            "link": "https://fabira-movie.vercel.app/",
+            "git": "https://github.com/MuhammadZulfaKamal31/Fabira_Movie.git"
+        },
+        {
+            "id": 2,
+            "img": "../../img/GamingBross.png",
+            "desc": "#GamingBross",
+            "link": "https://github.com/MuhammadZulfaKamal31/Gaming_Bross.git",
+            "git": "https://github.com/MuhammadZulfaKamal31/Gaming_Bross.git"
+        },
+        {
+            "id": 3,
+            "img": "../../img/VaadinWebsite.png",
+            "desc": "#Website Vaadin",
+            "link": "https://github.com/MuhammadZulfaKamal31/Vaadin_Website.git",
+            "git": "https://github.com/MuhammadZulfaKamal31/Vaadin_Website.git"
+        }
+    ],
+    "animation": [
+        {
+            "id": 1,
+            "text": "I'M",
+            "color": "yellow-300"
+        },
+        {
+            "id": 2,
+            "text": "Muhammad Zulfa ",
+            "color": "rose-600"
+        },
+        {
+            "id": 3,
+            "text": "Kamal",
+            "color": "blue-700"
+        },
+        {
+            "id": 4,
+            "text": "FULLSTACK DEVELOPER",
+            "color": "sky-300"
+        }
+    ],
+    "feedback": [
+        {
+            "id": 1,
+            "value": "firstname"
+        },
+        {
+            "id": 2,
+            "value": "lastname"
+        },
+        {
+            "id": 3,
+            "value": "email"
+        },
+        {
+            "id": 4,
+            "value": "subject"
+        }
+    ]
+}
